@@ -1,7 +1,7 @@
 ### Hi there 👋
 -🔭 I’m currently working on an AI Agent called Financial GPT, which helps with financial questions and provides financial suggestions.<br/>
 -🌱 I’m currently learning Artificial Intelligence and Cloud Concepts to enhance my expertise in AI-driven solutions.<br/>
--👯 I’m looking to collaborate on AI, NLP, and cloud-based applications, especially in the financial domain.
+-👯 I’m looking to collaborate on AI, NLP, and cloud-based applications.
 
 <!--
 **satwikreddy12/satwikreddy12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
