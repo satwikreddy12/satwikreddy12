@@ -1,4 +1,5 @@
 ### Hi there 👋
+I name is Satwik Reddy, and I am graduate student at University of Maryland. I am interested in Python, Machine Learning, AI and  Data Modeling.<br/><br/>
 -🔭 I’m currently working on an AI Agent called Financial GPT, which helps with financial questions and provides financial suggestions.<br/>
 -🌱 I’m currently learning Artificial Intelligence and Cloud Concepts to enhance my expertise in AI-driven solutions.<br/>
 -👯 I’m looking to collaborate on AI, NLP, and cloud-based applications.
